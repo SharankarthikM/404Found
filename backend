@@ -1,0 +1,7 @@
+backend/
+│
+├── package.json
+├── server.js
+├── .env              # (for database URL)
+└── models/
+    └── eventModel.js
